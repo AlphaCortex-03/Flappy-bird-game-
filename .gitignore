@@ -1,0 +1,5 @@
+# Game saves its best score locally, no need to track it
+best_score.txt
+
+__pycache__/
+*.pyc
